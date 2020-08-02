@@ -1,0 +1,82 @@
+
+#central{
+    width: 100%;
+    align-items: center
+}
+
+#fake{
+    font-style: oblique;
+    text-align: center;
+    margin-top: 6cm;
+    width: 100%;
+    color: #c0ebe1
+    
+}
+.capah{
+    margin-top: 6cm;
+    text-align: center;
+    color: turquoise;
+    text-shadow: #5560af;
+}
+body{
+    background: lightblue;
+}
+h4 {
+    font-size: x-large;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+h5 {
+    font-size: x-large;
+    border-radius: 5px;
+    margin-top: 5px ;
+    margin-bottom: 5px;
+}
+button{
+    background-color:#5560af ;
+    color: white;
+    border-radius: 6px; 
+    padding: 15px; 
+    cursor: pointer;  
+    border: none; 
+    font-size: 16px;
+}
+.coluna { 
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+
+    
+}
+.justificado {
+    text-align: justify;
+}
+.centralizado {
+    text-align: center;
+}
+.colunaquatro {
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 10%;
+}
+header {
+    align-items: top;
+    background-color: black;
+    color: white;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+
+}
+#menu {
+    float: right;
+}
+#logo {
+    width: 175px;
+    position: absolute;
+}
+.normal {
+    width: 100%;
+}
